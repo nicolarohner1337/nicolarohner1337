@@ -25,5 +25,4 @@ Hello, my name is **Nicola Rohner** and I am a **Web Analytics Engineer** curren
 
 ### My GitHub Stats
 
-[![nicolarohner1337's github stats](https://github-readme-stats.vercel.app/api?username=nicolarohner1337&show_icons=true&theme=tokyonight)](https://github.com/nicolarohner1337/github-readme-stats)
 [![nicolarohner1337's streak](https://github-readme-streak-stats.herokuapp.com?user=nicolarohner1337&theme=tokyonight)](https://github.com/nicolarohner1337)
