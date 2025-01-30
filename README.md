@@ -19,10 +19,3 @@ Hello, my name is **Nicola Rohner** and I am a **Junior Data Scientist** current
 - I have a passion for data and using it to improve business decisions 📈
 - Next to my job and studies I love cycling 🚴‍♂️ (Strava Data Project WIP)
 
-
-
-
-
-### My GitHub Stats
-
-[![nicolarohner1337's streak](https://github-readme-streak-stats.herokuapp.com?user=nicolarohner1337&theme=tokyonight)](https://github.com/nicolarohner1337)
