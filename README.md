@@ -1,7 +1,6 @@
 # Welcome to my GitHub Profile 
 
-Hello, my name is **Nicola Rohner** and I am a **Junior Data Scientist** currently working at [brack.ch](https://www.brack.ch/). I am also a Data Science Student at [FHNW](https://www.fhnw.ch/de/studium/technik/data-science).
-
+Hello, my name is **Nicola Rohner** and I am a **Data Scientist** currently working at [brack.ch](https://www.brack.ch/). 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicola-rohner-682893152/)](https://www.linkedin.com/in/nicola-rohner-682893152/)
 
 ### My Skills
